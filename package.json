@@ -38,7 +38,7 @@
     "mkdirp": "^0.5.1",
     "mocha": "2.4.5",
     "nconf": "^0.7.1",
-    "node-sass": "^3.4.2",
+    "node-sass": "^5.0.0",
     "npm": "^3.4.1",
     "pretty-hrtime": "^1.0.1",
     "requirejs": "2.1.22",
